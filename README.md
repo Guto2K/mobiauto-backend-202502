@@ -24,10 +24,11 @@ API para gestão de revendas de veículos da Mobiauto.
 1. Clone o repositório:
    ```bash
    git clone https://github.com/seu-usuario/mobiauto-backend-202502.git
-   cd mobiauto-backend-202502
+   
 2. Credenciais do banco: 
  - spring.datasource.username=
- - spring.datasource.password=   
+ - spring.datasource.password=
+ 
 2.1 Ao iniciar o projeto automaticamente gerará as tabelas necessárias e alguns inserts de dados para teste.
    
 ## Swagger
